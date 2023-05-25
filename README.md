@@ -4,8 +4,6 @@ Do you *hate* writing README.md files? Do you *love* jupyter notebook? This is t
 
 1. Edit your `README.ipynb` file as a jupyter notebook,
 2. Run `python generate_README.py` in shell
-3. ???
-4. Profit
 
 # About this README.md
 
