@@ -1,2 +1,2 @@
 # jupyter_notebook_READMEs
-A project that uses jupyter notebook to generate the README.md file.
+A project template that uses jupyter notebook to generate the README.md file.
