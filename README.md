@@ -1,6 +1,11 @@
-# Project name
+# Jupyter Notebook READMEs
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Do you *hate* writing README.md files? Do you *love* jupyter notebook? This is the repo template for you.
+
+1. Edit your `README.ipynb` file as a jupyter notebook,
+2. Run `python generate_README.py` in shell
+3. ???
+4. Profit
 
 # About this README.md
 
